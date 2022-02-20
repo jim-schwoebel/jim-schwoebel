@@ -25,13 +25,14 @@ Our team @ DigitalOcean (DO) is helping to build the [managed databases product 
 
 ## [passions I code around](https://jim.schwoebel.me)
 * **voice computing** - I've mentored 40+ fellows in voice computing through our [innnovation fellows program](https://neurolex.ai/research).
+* **blockchain** - I'm particularly excited about Web 3.0 enabled by blockchain, NFTs, and quantum computing.
 * **databases** - our team @ DigitalOcean is helping to build the [managed databases product (DBaaS)](https://www.digitalocean.com/products/managed-databases) to make it easy to set up and scale SQL, PostgreSQL, MongoDB, and Redis databases (10+ team members).
 * **machine learning** - I built [Allie](https://github.com/jim-schwoebel/allie), an agile ML framework (90+ stars) - I'm always looking to [teach others machine learning who want to learn too](https://github.com/jim-schwoebel/voice_gender_detection).
 * **quantum computing** - I co-founded [QuForce.org](https://quforce.org), a community for quantum computing enthusiasts.
 * **climate change activism** - I helped to build the website for [ClimateVoice](https://climatevoice.org), an advocacy organization to go #AllinonClimate and built a few climate GitHub applications through [Protea.earth](https://github.com/protea-earth), a working group for climate change.
 * **stock trading** - I like to do automated stock trading or portfolio analysis, so I may release some projects in the open source community soon.
 * **diversity, equity, and inclusion (DEI)** - I strongly believe software can help improve accessibility and lessen biases, so if I can contribute to any DEI-related projects you are working on please let me know! 
-* **web development** - I enjoy building web frameworks and applications as a full-stack developer - most recently [vibe.cards](https://vibe.cards) to create/distibute voice cards. I'm particularly excited about Web 3.0 enabled by blockchain and quantum computing.
+* **web development** - I enjoy building web frameworks and applications as a full-stack developer - most recently [vibe.cards](https://vibe.cards) to create/distibute voice cards. 
 
 ## [research](https://scholar.google.com/citations?hl=en&user=OyOyciEAAAAJ)
 To keep up with my ongoing research activities, check out my Google Scholar page [here](https://scholar.google.com/citations?hl=en&user=OyOyciEAAAAJ).
