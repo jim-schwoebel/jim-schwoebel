@@ -7,7 +7,11 @@
 Currently, I am an [Engineering Manager at DigitalOcean](https://jim.schwoebel.me), a company that simplifies cloud computing so developers and businesses can spend more time creating software that changes the world.
 
 ## demos
-Demos
+* [Vibe](https://www.youtube.com/watch?v=_SEmT27oJOc&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=2) - a framework for Alzheimer's disease research (1st place at the CNT hackathon (UW Center for Neurotechnology)
+* [Allie ML framework]() - an agile ML framework for machine learning research.
+* [Brainmeet.org](https://brainmeet.org) - Drupal CMS application, a social network for brain science.
+* [Nala]() - a framework to easily build and scale voice assistants.
+* [Sound_event_detection]() - framework to help annotate and visualize sound files.
 
 ## passions
 * **voice computing** - I wrote [Introduction to Voice Computing in Python](https://neurolex.ai/voicebook), a starter book for voice developers.
