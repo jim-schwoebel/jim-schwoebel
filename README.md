@@ -33,8 +33,8 @@ Our team @ DigitalOcean is helping to build the [managed databases product (DBaa
 ## [research](https://scholar.google.com/citations?hl=en&user=OyOyciEAAAAJ)
 To keep up with my ongoing research activities, check out my Google Scholar page [here](https://scholar.google.com/citations?hl=en&user=OyOyciEAAAAJ).
 
-## interested to chat?
-Check out my personal website @ https://jim.schwoebel.me
+## [interested to chat?](https://jim.schwoebel.me)
+Schedule a time to chat @ https://jim.schwoebel.me
 
 <!--
 **jim-schwoebel/jim-schwoebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
