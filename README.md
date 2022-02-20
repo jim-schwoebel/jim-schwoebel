@@ -10,6 +10,7 @@ Currently, I am an [Engineering Manager at DigitalOcean](https://jim.schwoebel.m
 * [Voiceome](https://www.medrxiv.org/content/10.1101/2021.08.16.21262125v1) - our research paper that focuses on the largest clinical study in the world to collect voice data labeled with health information (N>6,000 participants, 48 utterances, 80+ health labels). 
 * [Vibe](https://www.youtube.com/watch?v=_SEmT27oJOc&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=2) - a framework for Alzheimer's disease research (1st place at the CNT hackathon / UW Center for Neurotechnology).
 * [Voicebook](https://www.youtube.com/watch?v=7QV-Vlqq2GE) - a book to get you started programming voice computing applications in Python (10 chapters and 200+ scripts).
+* [SurveyLex](https://www.youtube.com/watch?v=JV820uceEKY&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=5) - create a distribute a voice survey in <1 minute.
 * [Allie ML framework](https://github.com/jim-schwoebel/allie) - an agile ML framework for machine learning research.
 * [Brainmeet.org](https://www.youtube.com/watch?v=RxSK-45wj_c&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=4) - a social network for brain science.
 * [Every Second Counts](https://www.youtube.com/watch?v=RNjP6z3rjUQ&list=PLror0K8Y4wY6SaOaw9n881Kx7KBgD456a) - a music album I composed with my friend Berk for our band, [the Pragmatists](https://pragmatists.live).
