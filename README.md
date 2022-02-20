@@ -11,7 +11,7 @@ Currently, I am an [Engineering Manager at DigitalOcean](https://jim.schwoebel.m
 * [Allie ML framework]() - an agile ML framework for machine learning research.
 * [Brainmeet.org](https://brainmeet.org) - Drupal CMS application, a social network for brain science.
 * [Nala]() - a framework to easily build and scale voice assistants.
-* [Sound_event_detection]() - framework to help annotate and visualize sound files.
+* [Sound_event_detection](https://github.com/jim-schwoebel/sound_event_detection) - framework to help annotate and visualize sound files.
 
 ## passions
 * **voice computing** - I wrote [Introduction to Voice Computing in Python](https://neurolex.ai/voicebook), a starter book for voice developers.
