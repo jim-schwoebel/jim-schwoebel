@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+Currently, I am an [Engineering Manager at DigitalOcean](), a company that simplifies cloud computing so developers and businesses can spend more time creating software that changes the world.
+
+## passions
+* **voice computing** - I wrote [Introduction to Voice Computing in Python](https://neurolex.ai/voicebook), a starter book for voice developers.
+* **quantum computing** - I co-founded [QuForce.org](https://quforce.org), a community for quantum computing enthusiasts.
+* **climate change activism** - I helped to build the website for [ClimateVoice](https://climatevoice.org), an advocacy organization to go #AllinonClimate and built a few GitHub applications through [Protea](), a working group for climate change.
 
 <!--
 **jim-schwoebel/jim-schwoebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
