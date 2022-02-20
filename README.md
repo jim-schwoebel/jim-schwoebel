@@ -16,7 +16,7 @@ Currently, I am an [Engineering Manager at DigitalOcean](https://jim.schwoebel.m
 ## research
 To keep up with my ongoing research activities, check out my Google Scholar page [here](https://scholar.google.com/citations?hl=en&user=OyOyciEAAAAJ)
 
-## Interested to chat?
+## interested to chat?
 Check out my personal website @ https://jim.schwoebel.me
 
 <!--
