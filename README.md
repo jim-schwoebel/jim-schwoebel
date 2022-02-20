@@ -11,6 +11,7 @@ Currently, I am an [Engineering Manager at DigitalOcean](https://jim.schwoebel.m
 * [Voicebook](https://www.youtube.com/watch?v=7QV-Vlqq2GE) - a book to get you started programming voice computing applications in Python (10 chapters and 200+ scripts).
 * [Allie ML framework](https://github.com/jim-schwoebel/allie) - an agile ML framework for machine learning research.
 * [Brainmeet.org](https://www.youtube.com/watch?v=RxSK-45wj_c&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=4) - a social network for brain science.
+* [Every Second Counts](https://www.youtube.com/watch?v=RNjP6z3rjUQ&list=PLror0K8Y4wY6SaOaw9n881Kx7KBgD456a) - a music album I composed with my friend Berk with our band, [The Pragmatists](https://pragmatists.live)
 * [Nala](https://drive.google.com/file/d/1Ubeyxot4G6oVXXt0REPfPLSwA29Hpliz/view) - a framework to easily build and scale voice assistants.
 
 ## passions
