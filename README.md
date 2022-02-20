@@ -8,11 +8,10 @@ Currently, I am an [Engineering Manager at DigitalOcean](https://jim.schwoebel.m
 
 ## demos
 * [Vibe](https://www.youtube.com/watch?v=_SEmT27oJOc&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=2) - a framework for Alzheimer's disease research (1st place at the CNT hackathon (UW Center for Neurotechnology)
-* [Voicebook](https://github.com/jim-schwoebel/voicebook) - a book to get you started programming voice computing applications in Python (10 chapters and 200+ scripts).
+* [Voicebook](https://www.youtube.com/watch?v=7QV-Vlqq2GE) - a book to get you started programming voice computing applications in Python (10 chapters and 200+ scripts).
 * [Allie ML framework](https://github.com/jim-schwoebel/allie) - an agile ML framework for machine learning research.
-* [Brainmeet.org](https://brainmeet.org) - Drupal CMS application, a social network for brain science.
-* [Nala](https://github.com/jim-schwoebel/nala) - a framework to easily build and scale voice assistants.
-* [Sound_event_detection](https://github.com/jim-schwoebel/sound_event_detection) - framework to help annotate and visualize sound files.
+* [Brainmeet.org](https://www.youtube.com/watch?v=RxSK-45wj_c&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=4) - Drupal CMS application, a social network for brain science.
+* [Nala](https://drive.google.com/file/d/1Ubeyxot4G6oVXXt0REPfPLSwA29Hpliz/view) - a framework to easily build and scale voice assistants.
 
 ## passions
 * **voice computing** - I wrote [Introduction to Voice Computing in Python](https://neurolex.ai/voicebook), a starter book for voice developers.
