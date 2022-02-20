@@ -7,6 +7,9 @@ Currently, I am an [Engineering Manager at DigitalOcean](https://jim.schwoebel.m
 * **quantum computing** - I co-founded [QuForce.org](https://quforce.org), a community for quantum computing enthusiasts.
 * **climate change activism** - I helped to build the website for [ClimateVoice](https://climatevoice.org), an advocacy organization to go #AllinonClimate and built a few climate GitHub applications through [Protea.earth](https://github.com/protea-earth), a working group for climate change.
 
+## Interested to chat?
+Check out my personal website @ https://jim.schwoebel.me
+
 <!--
 **jim-schwoebel/jim-schwoebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
