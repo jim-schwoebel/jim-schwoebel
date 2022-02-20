@@ -1,8 +1,8 @@
 # Hi there 👋
 
-<p align="center">
+<a href='https://schwoebel.me/jim/'><p align="center">
 <img src="https://schwoebel.me/jim/assets/do.png" alt="drawing" width="200"/>
-</p>
+</p></a>
 
 Currently, I am an [Engineering Manager at DigitalOcean](https://jim.schwoebel.me), a company that simplifies cloud computing so developers and businesses can spend more time creating software that changes the world.
 
