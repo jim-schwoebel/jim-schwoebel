@@ -34,7 +34,7 @@ Our team @ DigitalOcean (DO) is helping to build the [managed databases product 
 * **quantum computing** - I co-founded [QuForce.org](https://quforce.org), a community for quantum computing enthusiasts.
 * **stock trading** - I like to do automated stock trading or portfolio analysis, so I may release some projects in the open source community soon.
 * **voice computing** - I [wrote a book in voice computing](https://github.com/jim-schwoebel/voicebook) and I've mentored 40+ fellows in voice computing through our [innnovation fellows program](https://neurolex.ai/research).
-* **web 3.0** - As a full-stack developer, I'm particularly excited about helping to build [Web 3.0](https://en.wikipedia.org/wiki/Web3) at the intersection of voice computing, blockchain, NFTs, machine learning, virtual reality, and quantum computing.
+* **web 3.0** - As a full-stack developer, I'm particularly excited about helping to build [Web 3.0](https://en.wikipedia.org/wiki/Web3) at the intersection of voice computing, blockchain, NFTs, machine learning, gamification, virtual reality, and quantum computing.
 
 
 ## [research](https://scholar.google.com/citations?hl=en&user=OyOyciEAAAAJ)
