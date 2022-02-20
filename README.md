@@ -4,7 +4,7 @@ Currently, I am an [Engineering Manager at DigitalOcean](https://jim.schwoebel.m
 
 ## passions
 * **voice computing** - I wrote [Introduction to Voice Computing in Python](https://neurolex.ai/voicebook), a starter book for voice developers.
-* **machine learning** - I built Allie, an agile ML framework (90+ stars).
+* **machine learning** - I built [Allie](https://github.com/jim-schwoebel/allie), an agile ML framework (90+ stars).
 * **quantum computing** - I co-founded [QuForce.org](https://quforce.org), a community for quantum computing enthusiasts.
 * **climate change activism** - I helped to build the website for [ClimateVoice](https://climatevoice.org), an advocacy organization to go #AllinonClimate and built a few climate GitHub applications through [Protea.earth](https://github.com/protea-earth), a working group for climate change.
 
