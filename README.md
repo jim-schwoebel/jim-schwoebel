@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![](https://schwoebel.me/jim/assets/do.png)
+<img src="https://schwoebel.me/jim/assets/do.png" alt="drawing" width="200"/>
 
 Currently, I am an [Engineering Manager at DigitalOcean](https://jim.schwoebel.me), a company that simplifies cloud computing so developers and businesses can spend more time creating software that changes the world.
 
