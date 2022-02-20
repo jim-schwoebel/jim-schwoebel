@@ -29,7 +29,7 @@ Our team @ DigitalOcean (DO) is helping to build the [managed databases product 
 * **machine learning** - I built [Allie](https://github.com/jim-schwoebel/allie), an agile ML framework (90+ stars) - I'm always looking to expand this framework.
 * **quantum computing** - I co-founded [QuForce.org](https://quforce.org), a community for quantum computing enthusiasts.
 * **climate change activism** - I helped to build the website for [ClimateVoice](https://climatevoice.org), an advocacy organization to go #AllinonClimate and built a few climate GitHub applications through [Protea.earth](https://github.com/protea-earth), a working group for climate change.
-* **stock trading** - In my free time, I like to do automated stock trading or portfolio analysis, so I may release some projects in the open source community soon.
+* **stock trading** - I like to do automated stock trading or portfolio analysis, so I may release some projects in the open source community soon.
 
 ## [research](https://scholar.google.com/citations?hl=en&user=OyOyciEAAAAJ)
 To keep up with my ongoing research activities, check out my Google Scholar page [here](https://scholar.google.com/citations?hl=en&user=OyOyciEAAAAJ).
