@@ -6,7 +6,7 @@
 
 Currently, I am an [Engineering Manager at DigitalOcean](https://jim.schwoebel.me), a company that simplifies cloud computing so developers and businesses can spend more time creating software that changes the world.
 
-## [recent demos](https://www.youtube.com/watch?v=q6la0WoS6lY&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb)
+## [recent demos](https://www.youtube.com/watch?v=gb5rC3pJUek&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb)
 * [Data Migration Feature Release](https://www.youtube.com/watch?v=gb5rC3pJUek&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=1) - migrate your databases seamlessly to DigitalOcean.
 * [Voiceome](https://www.medrxiv.org/content/10.1101/2021.08.16.21262125v1) - our research paper that focuses on the largest clinical study in the world to collect voice data labeled with health information (N>6,000 participants, 48 utterances, 80+ health labels). 
 * [Vibe](https://www.youtube.com/watch?v=_SEmT27oJOc&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=2) - a framework for Alzheimer's disease research (1st place at the CNT hackathon / UW Center for Neurotechnology).
@@ -19,7 +19,7 @@ Currently, I am an [Engineering Manager at DigitalOcean](https://jim.schwoebel.m
 * [Journeys in Life](https://jim.schwoebel.me/timalbum) - a memory illustration album in honor of my brother, Tim.
 * [Nala](https://drive.google.com/file/d/1Ubeyxot4G6oVXXt0REPfPLSwA29Hpliz/view) - a framework to easily build and scale voice assistants.
 
-... more demos can be found [here](https://www.youtube.com/watch?v=q6la0WoS6lY&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb)
+... more demos can be found [here](https://www.youtube.com/watch?v=gb5rC3pJUek&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb)
 
 ## [passions](https://jim.schwoebel.me)
 * **voice computing** - I wrote [Introduction to Voice Computing in Python](https://neurolex.ai/voicebook), a starter book for voice developers.
