@@ -31,7 +31,7 @@ Our team @ DigitalOcean (DO) is helping to build the [managed databases product 
 * **climate change activism** - I helped to build the website for [ClimateVoice](https://climatevoice.org), an advocacy organization to go #AllinonClimate and built a few climate GitHub applications through [Protea.earth](https://github.com/protea-earth), a working group for climate change.
 * **stock trading** - I like to do automated stock trading or portfolio analysis, so I may release some projects in the open source community soon.
 * **diversity, equity, and inclusion (DEI)** - I strongly believe software can help improve accessibility and lessen biases, so if I can contribute to any DEI-related projects you are working on please let me know! 
-* **web development** - I enjoy building web frameworks and applications as a full-stack developer - most recently [vibe.cards](https://vibe.cards) to create/distibute voice cards. I'm particularly excited about Web 3.0 enabled by Blockchain and quantum computing.
+* **web development** - I enjoy building web frameworks and applications as a full-stack developer - most recently [vibe.cards](https://vibe.cards) to create/distibute voice cards. I'm particularly excited about Web 3.0 enabled by blockchain and quantum computing.
 
 ## [research](https://scholar.google.com/citations?hl=en&user=OyOyciEAAAAJ)
 To keep up with my ongoing research activities, check out my Google Scholar page [here](https://scholar.google.com/citations?hl=en&user=OyOyciEAAAAJ).
