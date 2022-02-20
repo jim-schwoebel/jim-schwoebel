@@ -16,10 +16,10 @@ Our team @ DigitalOcean (DO) is helping to build the [managed databases product 
 * [SurveyLex](https://www.youtube.com/watch?v=JV820uceEKY&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=5) - create a distribute a voice survey in <1 minute (1000+ users).
 * [Allie ML framework](https://github.com/jim-schwoebel/allie) - an agile ML framework for machine learning research (90+ stars).
 * [Brainmeet.org](https://www.youtube.com/watch?v=RxSK-45wj_c&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=4) - a social network for brain science (150+ users).
-* [Every Second Counts](https://www.youtube.com/watch?v=RNjP6z3rjUQ&list=PLror0K8Y4wY6SaOaw9n881Kx7KBgD456a) - a music album I composed with my friend Berk for our band, [the Pragmatists](https://pragmatists.live).
-* [Science](https://storiesinscience.org/2019/04/20/science-a-poem/) - a poem about conducting science independently from academia.
+* [Every Second Counts](https://www.youtube.com/watch?v=RNjP6z3rjUQ&list=PLror0K8Y4wY6SaOaw9n881Kx7KBgD456a) - a music album I composed with my friend Berk for our band, [the Pragmatists](https://pragmatists.live) (16 songs).
+* [Science](https://storiesinscience.org/2019/04/20/science-a-poem/) - a poem about conducting science independently from academia (200+ views).
 * [Journeys in Life](https://jim.schwoebel.me/timalbum) - a memory illustration album in honor of my brother, Tim (34+ illustrations, 1 poem).
-* [Nala](https://drive.google.com/file/d/1Ubeyxot4G6oVXXt0REPfPLSwA29Hpliz/view) - a framework to easily build and scale voice assistants.
+* [Nala](https://drive.google.com/file/d/1Ubeyxot4G6oVXXt0REPfPLSwA29Hpliz/view) - a framework to easily build and scale voice assistants (25+ stars).
 
 ... more demos can be found [here](https://www.youtube.com/watch?v=gb5rC3pJUek&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb)
 
