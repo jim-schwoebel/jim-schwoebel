@@ -7,7 +7,7 @@
 Currently, I am an [Engineering Manager at DigitalOcean](https://jim.schwoebel.me), a company that simplifies cloud computing so developers and businesses can spend more time creating software that changes the world.
 
 ## demos
-* [Vibe](https://www.youtube.com/watch?v=_SEmT27oJOc&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=2) - a framework for Alzheimer's disease research (1st place at the CNT hackathon (UW Center for Neurotechnology).
+* [Vibe](https://www.youtube.com/watch?v=_SEmT27oJOc&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=2) - a framework for Alzheimer's disease research (1st place at the CNT hackathon / UW Center for Neurotechnology).
 * [Voicebook](https://www.youtube.com/watch?v=7QV-Vlqq2GE) - a book to get you started programming voice computing applications in Python (10 chapters and 200+ scripts).
 * [Allie ML framework](https://github.com/jim-schwoebel/allie) - an agile ML framework for machine learning research.
 * [Brainmeet.org](https://www.youtube.com/watch?v=RxSK-45wj_c&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=4) - a social network for brain science.
