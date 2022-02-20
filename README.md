@@ -18,7 +18,7 @@ Our team @ DigitalOcean (DO) is helping to build the [managed databases product 
 * [Brainmeet.org](https://www.youtube.com/watch?v=RxSK-45wj_c&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=4) - a social network for brain science (150+ users).
 * [Every Second Counts](https://www.youtube.com/watch?v=RNjP6z3rjUQ&list=PLror0K8Y4wY6SaOaw9n881Kx7KBgD456a) - a music album I composed with my friend Berk for our band, [the Pragmatists](https://pragmatists.live).
 * [Science](https://storiesinscience.org/2019/04/20/science-a-poem/) - a poem about conducting science independently from academia.
-* [Journeys in Life](https://jim.schwoebel.me/timalbum) - a memory illustration album in honor of my brother, Tim.
+* [Journeys in Life](https://jim.schwoebel.me/timalbum) - a memory illustration album in honor of my brother, Tim (34+ illustrations, 1 poem).
 * [Nala](https://drive.google.com/file/d/1Ubeyxot4G6oVXXt0REPfPLSwA29Hpliz/view) - a framework to easily build and scale voice assistants.
 
 ... more demos can be found [here](https://www.youtube.com/watch?v=gb5rC3pJUek&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb)
