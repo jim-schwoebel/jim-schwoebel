@@ -26,7 +26,7 @@ Our team @ DigitalOcean (DO) is helping to build the [managed databases product 
 ## [passions I code around](https://jim.schwoebel.me)
 * **voice computing** - I've mentored 40+ fellows in voice computing through our [innnovation fellows program](https://neurolex.ai/research).
 * **databases** - our team @ DigitalOcean is helping to build the [managed databases product (DBaaS)](https://www.digitalocean.com/products/managed-databases) to make it easy to set up and scale SQL, PostgreSQL, MongoDB, and Redis databases (10+ team members).
-* **machine learning** - I built [Allie](https://github.com/jim-schwoebel/allie), an agile ML framework (90+ stars) - I'm always looking to expand this framework.
+* **machine learning** - I built [Allie](https://github.com/jim-schwoebel/allie), an agile ML framework (90+ stars) - I'm always looking to [teach others machine learning who want to learn too](https://github.com/jim-schwoebel/voice_gender_detection).
 * **quantum computing** - I co-founded [QuForce.org](https://quforce.org), a community for quantum computing enthusiasts.
 * **climate change activism** - I helped to build the website for [ClimateVoice](https://climatevoice.org), an advocacy organization to go #AllinonClimate and built a few climate GitHub applications through [Protea.earth](https://github.com/protea-earth), a working group for climate change.
 * **stock trading** - I like to do automated stock trading or portfolio analysis, so I may release some projects in the open source community soon.
