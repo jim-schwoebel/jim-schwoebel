@@ -25,7 +25,7 @@ Our team @ DigitalOcean (DO) is helping to build the [managed databases product 
 
 ## [passions I code around](https://jim.schwoebel.me)
 * **web 3.0** - I'm particularly excited about Web 3.0 enabled by voice computing, blockchain, NFTs, virtual reality, and quantum computing.
-* * **voice computing** - I've mentored 40+ fellows in voice computing through our [innnovation fellows program](https://neurolex.ai/research).
+* **voice computing** - I've mentored 40+ fellows in voice computing through our [innnovation fellows program](https://neurolex.ai/research).
 * **databases** - our team @ DigitalOcean is helping to build the [managed databases product (DBaaS)](https://www.digitalocean.com/products/managed-databases) to make it easy to set up and scale SQL, PostgreSQL, MongoDB, and Redis databases (10+ team members).
 * **machine learning** - I built [Allie](https://github.com/jim-schwoebel/allie), an agile ML framework (90+ stars) - I'm always looking to [teach others machine learning who want to learn too](https://github.com/jim-schwoebel/voice_gender_detection).
 * **quantum computing** - I co-founded [QuForce.org](https://quforce.org), a community for quantum computing enthusiasts.
