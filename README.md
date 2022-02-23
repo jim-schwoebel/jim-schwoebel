@@ -8,6 +8,8 @@ Currently, I am an [Engineering Manager at DigitalOcean](https://jim.schwoebel.m
 
 Our team @ DigitalOcean (DO) is helping to build the [managed databases product (DBaaS)](https://www.digitalocean.com/products/managed-databases) to make it easy to set up and scale SQL, PostgreSQL, MongoDB, and Redis databases.
 
+We're hiring for [multiple roles](https://grnh.se/bc47f6b61us).
+
 ## [recent demos](https://www.youtube.com/watch?v=gb5rC3pJUek&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb)
 * [Data Migration Feature Release](https://www.youtube.com/watch?v=gb5rC3pJUek&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=1) - migrate your databases seamlessly to DigitalOcean (600k+ customer reach).
 * [Voiceome](https://www.medrxiv.org/content/10.1101/2021.08.16.21262125v1) - our research paper that focuses on the largest clinical study in the world to collect voice data labeled with health information (N>6,000 participants, 48 utterances, 80+ health labels). 
