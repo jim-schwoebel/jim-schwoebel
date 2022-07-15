@@ -32,7 +32,7 @@ We're hiring for [multiple roles](https://grnh.se/bc47f6b61us).
 * **diversity, equity, and inclusion (DEI)** - I strongly believe software can help improve accessibility and lessen biases, so if I can contribute to any DEI-related projects you are working on please let me know.
 * **life hacking** - I generally am looking for hacks to be more productive, so you may find me releasing some code to automate my daily routine and/or send and respond to emails.
 * **machine learning** - I built [Allie](https://github.com/jim-schwoebel/allie), an agile ML framework (90+ stars) - I'm always looking to open source useful machine learning models and [teach others machine learning who want to learn](https://github.com/jim-schwoebel/voice_gender_detection).
-* **new media formats** - I'm fascinated about creating new forms of art and media formats through software -- for example, [markov-model generated poetry](https://github.com/jim-schwoebel/voicebook/blob/master/chapter_5_generation/generate_poem.py).
+* **new media formats** - I'm fascinated about creating new forms of art and media formats through software -- for example, [computer generated poetry](https://github.com/jim-schwoebel/voicebook/blob/master/chapter_5_generation/generate_poem.py).
 * **quantum computing** - I co-founded [QuForce.org](https://quforce.org), a community for quantum computing enthusiasts.
 * **stock trading** - I like to do automated stock trading or portfolio analysis, so I may release some projects in the open source community soon.
 * **voice computing** - I [wrote a book in voice computing](https://github.com/jim-schwoebel/voicebook) and I've mentored 40+ fellows in voice computing through our [innnovation fellows program](https://neurolex.ai/research).
