@@ -4,7 +4,7 @@
 <img src='https://media.licdn.com/dms/image/C4D03AQGFeGUwsVSJFw/profile-displayphoto-shrink_400_400/0/1617228464122?e=1684972800&v=beta&t=yP2Ug2QAmCF19Y65FvOr6lu_yzwahjTJNzI6Jq6WzGE'></img>
 </p></a>
 
-Currently, I am an [Engineering Manager at Veriily](https://jim.schwoebel.me), a company with the mission to make the world's health data useful so that people enjoy healthier lives.
+Currently, I am an [Engineering Manager at Verily](https://jim.schwoebel.me), a company with the mission to make the world's health data useful so that people enjoy healthier lives.
 
 Our team @ Verily is helping to build the [Terra](https://verily.com/solutions/terra/) - a scalable, secure research platform, jointly developed by The Broad Institute of MIT and Harvard, Microsoft, and Verily to help biomedical researchers accelerate scientific discoveries.
 
