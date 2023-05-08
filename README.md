@@ -8,7 +8,7 @@ Currently, I am an [Engineering Manager at Verily](https://jim.schwoebel.me), a 
 
 Our team @ Verily is helping to build the [Terra](https://verily.com/solutions/terra/) - a scalable, secure research platform, jointly developed by The Broad Institute of MIT and Harvard, Microsoft, and Verily to help biomedical researchers accelerate scientific discoveries.
 
-We're hiring for [multiple roles](https://verily.com/careers/).
+We're hiring for [multiple roles](https://grnh.se/74888dea1us).
 
 ## [recent demos](https://www.youtube.com/watch?v=gb5rC3pJUek&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb)
 * [Online Migration for Datastores - Feature Release](https://www.youtube.com/watch?v=gb5rC3pJUek&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=1) - migrate your databases seamlessly to DigitalOcean (600k+ customer reach).
