@@ -1,7 +1,7 @@
 # Hi, [I'm Jim](https://jim.schwoebel.me) 👋
 
 <a href='https://schwoebel.me/jim/'><p align="center">
-<img src='https://media.licdn.com/dms/image/C4D03AQGFeGUwsVSJFw/profile-displayphoto-shrink_400_400/0/1617228464122?e=1684972800&v=beta&t=yP2Ug2QAmCF19Y65FvOr6lu_yzwahjTJNzI6Jq6WzGE'></img>
+<img src='https://schwoebel.me/jim/assets/java.gif'></img>
 </p></a>
 
 Currently, I am an [Engineering Manager at Verily](https://jim.schwoebel.me), a company with the mission to make the world's health data useful so that people enjoy healthier lives.
