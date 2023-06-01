@@ -1,4 +1,6 @@
 # Hi, [I'm Jim](https://jim.schwoebel.me) 👋
+![](https://schwoebel.me/jim/assets/java.gif)
+
 Currently, I am an [Engineering Manager at Verily](https://jim.schwoebel.me), a company with the mission to make the world's health data useful so that people enjoy healthier lives.
 
 Our team @ Verily is helping to build the [Terra](https://verily.com/solutions/terra/) - a scalable, secure research platform, jointly developed by The Broad Institute of MIT and Harvard, Microsoft, and Verily to help biomedical researchers accelerate scientific discoveries.
