@@ -1,5 +1,5 @@
 # Hi, [I'm Jim](https://jim.schwoebel.me) 👋
-![](https://github.com/jim-schwoebel/jim-schwoebel/blob/main/30424731.jpeg)
+<center>![](https://github.com/jim-schwoebel/jim-schwoebel/blob/main/30424731.jpeg)</center>
 
 Currently, I am an [Engineering Manager at Verily](https://jim.schwoebel.me), a company with the mission to make the world's health data useful so that people enjoy healthier lives.
 
