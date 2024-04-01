@@ -1,11 +1,7 @@
 # Hi, [I'm Jim](https://jim.schwoebel.me) 👋
 ![](https://github.com/jim-schwoebel/jim-schwoebel/blob/main/30424731.jpeg)
 
-Currently, I am an [Engineering Manager at Verily](https://jim.schwoebel.me), a company with the mission to make the world's health data useful so that people enjoy healthier lives.
-
-Our team @ Verily is helping to build the [Terra](https://verily.com/solutions/terra/) - a scalable, secure research platform, jointly developed by The Broad Institute of MIT and Harvard, Microsoft, and Verily to help biomedical researchers accelerate scientific discoveries.
-
-We're hiring for [multiple roles](https://grnh.se/74888dea1us).
+Currently, I am an Head of Engineering at [NewAtlantis Labs](https://www.newatlantis.io/), a team dedicated to merging omics-led science, AI, and innovative financial models to support Marine Protected Areas (MPAs). 
 
 ## [recent demos](https://www.youtube.com/watch?v=gb5rC3pJUek&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb)
 * [Online Migration for Datastores - Feature Release](https://www.youtube.com/watch?v=gb5rC3pJUek&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=1) - migrate your databases seamlessly to DigitalOcean (600k+ customer reach).
