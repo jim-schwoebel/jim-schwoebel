@@ -1,7 +1,7 @@
 # Hi, [I'm Jim](https://jim.schwoebel.me) 👋
 ![](https://github.com/jim-schwoebel/jim-schwoebel/blob/main/30424731.jpeg)
 
-Currently, I am an Head of Engineering at [NewAtlantis Labs](https://www.newatlantis.io/), a team dedicated to merging omics-led science, AI, and innovative financial models to support Marine Protected Areas (MPAs). 
+Currently, I am an CEO @ [Quome](https://quome.com), building a healthcare cloud.
 
 ## [recent demos](https://www.youtube.com/watch?v=gb5rC3pJUek&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb)
 * [Online Migration for Datastores - Feature Release](https://www.youtube.com/watch?v=gb5rC3pJUek&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb&index=1) - migrate your databases seamlessly to DigitalOcean (600k+ customer reach).
@@ -19,7 +19,7 @@ Currently, I am an Head of Engineering at [NewAtlantis Labs](https://www.newatla
 ... more demos can be found [here](https://www.youtube.com/watch?v=gb5rC3pJUek&list=PL_D3Oayw4KAqaFwZh4vKH131AGM4ODYvb)
 
 ## [passions I code around](https://jim.schwoebel.me)
-* **climate change activism** - Currently, I am an Head of Engineering at [NewAtlantis Labs](https://www.newatlantis.io/), a team dedicated to merging omics-led science, AI, and innovative financial models to support Marine Protected Areas (MPAs). I also helped to build the website for [ClimateVoice](https://climatevoice.org), an advocacy organization to go #AllinonClimate and built a few climate GitHub applications through [Protea.earth](https://github.com/protea-earth), a working group for climate change.
+* **climate change activism** - Previously, I was Head of Engineering at [NewAtlantis Labs](https://www.newatlantis.io/), a team dedicated to merging omics-led science, AI, and innovative financial models to support Marine Protected Areas (MPAs). I also helped to build the website for [ClimateVoice](https://climatevoice.org), an advocacy organization to go #AllinonClimate and built a few climate GitHub applications through [Protea.earth](https://github.com/protea-earth), a working group for climate change.
 * **databases** - Our team @ DigitalOcean built the [managed databases product (DBaaS)](https://www.digitalocean.com/products/managed-databases) to make it easy to set up and scale SQL, PostgreSQL, MongoDB, and Redis databases (10+ team members).
 * **digital health** - I'm a strong believer that [software can eat healthcare a bit more](https://rockhealth.com/rock-weekly/all-eyes-on-you-2022/) to improve health outcomes and reduce healthcare costs; it's our responsibility to make the healthcare transition toward web 3.0 move faster.
 * **diversity, equity, and inclusion (DEI)** - I strongly believe software can help improve accessibility and lessen biases, so if I can contribute to any DEI-related projects you are working on please let me know.
